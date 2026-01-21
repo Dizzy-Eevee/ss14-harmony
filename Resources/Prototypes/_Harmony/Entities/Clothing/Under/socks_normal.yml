@@ -178,8 +178,8 @@
 - type: entity
   parent: ClothingShoesBase
   id: ClothingUnderSocksCommand
-  name: regal socks
-  description: A pair of regal blue and gold striped socks. Gives you a sense of authority that you don't actually have.
+  name: red and blue socks
+  description: A pair of red and blue striped socks. Makes you feel like doing paperwork.
   components:
   - type: Sprite
     sprite: _Harmony/Clothing/Under/Socks/color.rsi
@@ -187,7 +187,7 @@
     - state: icon
       color: "#00648c"
     - state: icon-less-stripes
-      color: "#ffce5b"
+      color: "#b00000"
   - type: Clothing
     sprite: _Harmony/Clothing/Under/Socks/color.rsi
     clothingVisuals:
@@ -195,7 +195,7 @@
       - state: equipped-FEET
         color: "#00648c"
       - state: equipped-less-stripes-FEET
-        color: "#ffce5b"
+        color: "#b00000"
         
 - type: entity
   parent: ClothingShoesBase
