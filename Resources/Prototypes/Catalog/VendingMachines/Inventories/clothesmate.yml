@@ -97,6 +97,14 @@
     ClothingHeadWhiteBow: 3
     ClothingHeadBlackBow: 3
     ClothingMultipleHeadphonesCat: 3
+    ClothingUnderSocksWhite: 2
+    ClothingUnderSocksBotany: 2
+    ClothingUnderSocksJanitor: 2
+    ClothingUnderSocksCargo: 2
+    ClothingUnderSocksEngineering: 2
+    ClothingUnderSocksMedical: 2
+    ClothingUnderSocksSecurity: 2
+    ClothingUnderSocksCommand: 2
     # Harmony change
     # DO NOT ADD MORE, USE UNIFORM DYING
   contrabandInventory:
