@@ -104,13 +104,15 @@
     ClothingUnderSocksVirology: 2
     ClothingUnderSocksScience: 2
     ClothingUnderSocksSecurity: 2
+    # Harmony change
+    # DO NOT ADD MORE, USE UNIFORM DYING
+  contrabandInventory:
+    # Harmony change
     ClothingUnderSocksCargo: 2
     ClothingUnderSocksBotany: 2
     ClothingUnderSocksEngineering: 2
     ClothingUnderSocksCommand: 2
     # Harmony change
-    # DO NOT ADD MORE, USE UNIFORM DYING
-  contrabandInventory:
     ClothingMaskNeckGaiter: 2
     ClothingUniformJumpsuitTacticool: 1
     ClothingUniformJumpskirtTacticool: 1
