@@ -1,0 +1,122 @@
+# :angle:
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideAsexual
+  name: striped asexual socks
+  description: A pair of striped asexual socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/ace.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/ace.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideAromantic
+  name: striped aromantic socks
+  description: A pair of striped aromantic socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/aro.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/aro.rsi
+    
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideAroace
+  name: striped aroace socks
+  description: A pair of striped aroace socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/aroace.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/aroace.rsi
+    
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideBisexual
+  name: striped bisexual socks
+  description: A pair of striped bisexual socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/bisexual.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/bisexual.rsi
+    
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideGay
+  name: striped gay socks
+  description: A pair of striped gay socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/gay.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/gay.rsi
+    
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideIntersex
+  name: striped intersex socks
+  description: A pair of striped intersex socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/intersex.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/intersex.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideLesbian
+  name: striped lesbian socks
+  description: A pair of striped lesbian socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/lesbian.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/lesbian.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideNonbinary
+  name: striped nonbinary socks
+  description: A pair of striped nonbinary socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/nonbinary.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/nonbinary.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPridePansexual
+  name: striped pansexual socks
+  description: A pair of striped pansexual socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/pan.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/pan.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideRainbow
+  name: striped rainbow socks
+  description: A pair of striped rainbow socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/rainbow.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/rainbow.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksPrideTrans
+  name: striped trans socks
+  description: A pair of striped trans socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/trans.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/trans.rsi

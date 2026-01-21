@@ -11,21 +11,7 @@
             "name": "icon"
         },
         {
-            "name": "icon-stripes"
-        },
-        {
-            "name": "icon-less-stripes"
-        },
-        {
             "name": "equipped-FEET",
-            "directions": 4
-        },
-        {
-            "name": "equipped-stripes-FEET",
-            "directions": 4
-        },
-        {
-            "name": "equipped-less-stripes-FEET",
             "directions": 4
         }
     ]
