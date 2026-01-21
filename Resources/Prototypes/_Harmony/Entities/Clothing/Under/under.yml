@@ -1,0 +1,32 @@
+# :angle:
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksWhite
+  name: white socks
+  description: A pair of plain white socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/color.rsi
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/color.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksWhiteBlue
+  name: white and blue socks
+  description: A pair of white and blue striped socks.
+  components:
+  - type: Sprite
+    sprite: _Harmony/Clothing/Under/Socks/color.rsi
+    layers:
+    - state: icon
+    - state: icon-stripes
+      color: "#a1f4ff"
+  - type: Clothing
+    sprite: _Harmony/Clothing/Under/Socks/color.rsi
+    clothingVisuals:
+      shoes:
+      - state: equipped-FEET
+      - state: equipped-stripes-FEET
+        color: "#a1f4ff"
